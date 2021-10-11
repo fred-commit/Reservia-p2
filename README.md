@@ -3,9 +3,8 @@ Projet 2 "Reservia", Openclassrooms.
 Reservia
 Deuxième projet du parcours développeur web chez OpenClassrooms : "Transformez une maquette en site Web"
 
-L'objectif est de réaliser l'intégration de la maquette d'un site de planification de vacances nommé "Reservia" (voir l'image ci-dessous).
+L'objectif est de réaliser l'intégration de la maquette d'un site de planification de vacances nommé "Reservia".
 
-image
 
 Technologies, logiciels et langages utilisés
 Visual Studio Code
