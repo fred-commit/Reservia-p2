@@ -6,7 +6,8 @@ body {
     margin : 0 auto;
     font-size : 0.95em;
     }
-    header {
+
+header    {
     position : relative;
     display : flex;
     justify-content : space-between;
@@ -147,6 +148,10 @@ body {
     height : 47px;
     width : 45px;
     margin : 0;
+    }
+    .listefiltres{
+        display: flex;
+        flex-wrap:wrap;
     }
     .filtres div span {
     font-weight : 800;
@@ -593,6 +598,10 @@ body {
     flex-direction : column;
     align-items : flex-start;
     justify-content : space-between;
+    }
+    .listefiltres{
+        display: flex;
+        flex-wrap:wrap;
     }
     .filtres div {
     margin : 0;
