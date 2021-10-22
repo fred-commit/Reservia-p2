@@ -1,1 +1,0 @@
-C:\Users\touto\AppData\Local\GitHubDesktop\app-2.9.3\reservia_projet.2\Reservia-p2\images
